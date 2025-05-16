@@ -1,7 +1,3 @@
-Here's a professional and well-structured version of your project description, formatted for the **README** section of your GitHub repository:
-
----
-
 # 🩺 Breast Cancer Detection Website
 
 ## 🎯 Objective
